@@ -1,5 +1,5 @@
-# Quick Git Push from Terminal
+## Quick Git Push from Terminal
 
-## Bashrc configuration
+### Bashrc configuration
 
 
