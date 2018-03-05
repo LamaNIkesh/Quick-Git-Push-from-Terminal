@@ -1,7 +1,8 @@
 ## Quick Git Push from Terminal
+A very simple and easy way to automate and make git push easy with just one line of command. 
 
 ### Bashrc configuration
-Simple function that add all the change and pushes the changes. Add the scripts below at the end of your bashrc file. 
+Simple function that adds all the changes and pushes the changes. Add the scripts below at the end of your bashrc file. 
 To access bashrc file:
 `gedit ~/.bashrc`
 
