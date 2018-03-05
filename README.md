@@ -3,7 +3,8 @@
 ### Bashrc configuration
 Simple function that add all the change and pushes the changes
 
-```gitpush()
+```
+gitpush()
 {
 echo "-----------------Adding all the changes-----------------------"
 git add .
