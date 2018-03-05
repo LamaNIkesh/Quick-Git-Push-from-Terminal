@@ -28,3 +28,17 @@ git config --global credential.helper 'cache --timeout 43200'
 #it will be cached for 43200 seconds i.e.12 hrs
 
 ```
+### Execution
+
+Go to your git repo, open up a terminal and excute below to push changes.
+
+For the first time run your bashrc changes, run
+`source ~/.bashrc`
+
+Then, excute git push commands with alias defined in the bashrc for easy execution
+
+```
+easypush "commit name"
+```
+And that's it. 
+
