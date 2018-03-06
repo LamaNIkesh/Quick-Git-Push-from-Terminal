@@ -43,3 +43,5 @@ easypush "commit name"
 ```
 And that's it. 
 
+### Cloning a specific branch
+`git clone -b my-branch https://git@github.com/username/myproject.git`
